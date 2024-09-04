@@ -9,5 +9,5 @@ void Woof()
 
 int main()
 {
-
+	Woof();
 }
