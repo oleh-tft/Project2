@@ -2,12 +2,12 @@
 
 using namespace std;
 
-void Woof() 
+void Meow() 
 {
-	cout << "Woof" << endl;
+	cout << "Meow" << endl;
 }
 
 int main()
 {
-	Woof();
+	Meow();
 }
